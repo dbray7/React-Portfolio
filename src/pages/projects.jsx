@@ -17,38 +17,38 @@ class projects extends Component {
               <div className="row one">
                 <div className="col-xs-3">
                   <img className="project-img" src={require('../images/project1.png')}/>
-                  <Link to="https://github.com/hmorton77/Project1">
+                  <a href="https://github.com/hmorton77/Project1">
      <button className='btn' type="button">
           See more!
      </button>
- </Link>
+ </a>
                 </div>
                 <div className="col-xs-3">
                   <img className="project-img" src={require('../images/project2.png')}/>
-                  <Link to="https://github.com/dbray7/nosql-workouttracker">
+                  <a href="https://github.com/dbray7/nosql-workouttracker">
      <button className='btn' type="button">
           See more!
      </button>
- </Link>
+ </a>
                 </div>
                 <div className="col-xs-3">
                   <img className="project-img" src={require('../images/project3.png')}/>
-                  <Link to="https://github.com/dbray7/Day-Planner-2">
+                  <a href="https://github.com/dbray7/Day-Planner-2">
      <button className='btn' type="button">
           See more!
      </button>
- </Link>
+ </a>
                 </div>
               </div>
 
               <div className="row two">
                 <div className="col-xs-3">
                   <img className="project-img" src={require('../images/project4.png')}/>
-                  <Link to="https://github.com/dbray7/CodingQuiz">
+                  <a href="https://github.com/dbray7/CodingQuiz">
      <button className='btn' type="button">
           See more!
      </button>
- </Link>
+ </a>
                 </div>
               </div>
             </div>
